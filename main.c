@@ -27,6 +27,10 @@ int main (int argc, char *argv[])
   surf/=3;
   printf("et enfin voila %f\n\n",surf);
   printf("héééy it's C again xD ");
+
   printf("add some code");
+
+  printf("branch git ");
+
     return 0;
 }
