@@ -29,5 +29,6 @@ int main (int argc, char *argv[])
   printf("héééy it's C again xD ");
   printf("branch git ");
   //free1
+  //free2
     return 0;
 }
